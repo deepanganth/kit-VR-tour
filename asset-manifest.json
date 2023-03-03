@@ -1,14 +1,15 @@
 {
   "files": {
     "main.css": "/kit-VR-tour/static/css/main.620b407d.css",
-    "main.js": "/kit-VR-tour/static/js/main.c9400cc2.js",
+    "main.js": "/kit-VR-tour/static/js/main.63bdce91.js",
+    "static/media/kit.jpg": "/kit-VR-tour/static/media/kit.7275d3eb96c753606ccb.jpg",
     "static/media/kit2.glb": "/kit-VR-tour/static/media/kit2.122aef6b3416e6a328a1.glb",
     "index.html": "/kit-VR-tour/index.html",
     "main.620b407d.css.map": "/kit-VR-tour/static/css/main.620b407d.css.map",
-    "main.c9400cc2.js.map": "/kit-VR-tour/static/js/main.c9400cc2.js.map"
+    "main.63bdce91.js.map": "/kit-VR-tour/static/js/main.63bdce91.js.map"
   },
   "entrypoints": [
     "static/css/main.620b407d.css",
-    "static/js/main.c9400cc2.js"
+    "static/js/main.63bdce91.js"
   ]
 }
